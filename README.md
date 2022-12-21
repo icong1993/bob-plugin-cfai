@@ -16,4 +16,4 @@
 
 ## 配置
 
-- `api`：DeepL hack API server endpoint(需要自己部署破解版服务).
+- `api`：DeepL hack API server endpoint(需要自己部署破解版服务), eg: http://localhost:8080/translate .
