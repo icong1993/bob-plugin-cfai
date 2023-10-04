@@ -5,15 +5,15 @@ const { promisify } = require('util')
 
 function generateInfo() {
   return {
-    identifier: 'dev.icong1993.bob-plugin-deeplx',
+    identifier: 'dev.icong1993.bob-plugin-cfai',
     category: 'translate',
-    name: 'DeepL Translate',
+    name: 'CFAI Translate',
     summary: '',
     icon: '115',
     author: 'icong1993',
-    homepage: 'https://github.com/icong1993/bob-plugin-deeplx.git',
+    homepage: 'https://github.com/icong1993/bob-plugin-cfai.git',
     appcast:
-      'https://github.com/icong1993/bob-plugin-deeplx/raw/master/appcast.json',
+      'https://github.com/icong1993/bob-plugin-cfai/raw/master/appcast.json',
     minBobVersion: '0.5.0',
     options: [
       {
@@ -42,7 +42,7 @@ function generateInfo() {
 }
 
 async function main() {
-  const pkgName = 'bob-plugin-deeplx'
+  const pkgName = 'bob-plugin-cfai'
   const version = require('../package.json').version
   const buildDir = join(__dirname, '../build')
   const releaseDir = join(__dirname, '../release')

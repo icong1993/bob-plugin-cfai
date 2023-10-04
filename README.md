@@ -1,4 +1,4 @@
-# bob-plugin-deeplx
+# bob-plugin-cfai
 
 > fork from https://github.com/geekdada/bob-plugin-deepl-translate
 
@@ -11,7 +11,7 @@
 ## 安装
 
 1. 安装 Bob (version >= 0.5.0)
-2. 下载插件 [releases](https://github.com/icong1993/bob-plugin-deeplx/releases)
+2. 下载插件 [releases](https://github.com/icong1993/bob-plugin-cfai/releases)
 3. [安装插件](https://ripperhe.gitee.io/bob/#/general/quickstart/plugin?id=%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6)
 
 ## 配置
