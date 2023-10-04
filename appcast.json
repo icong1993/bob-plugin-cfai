@@ -4,7 +4,7 @@
     {
       "version": "0.1.0",
       "desc": "https://github.com/icong1993/bob-plugin-cfai/releases/tag/v0.1.0",
-      "sha256": "431f30ed1c92786cd525d073e918cdfc26b7a374f39e360efed9a10c1930d991",
+      "sha256": "589f7b0d187a4db9db1f18712d619e074d300454ca2d36854cc9f8701dd2db52",
       "url": "https://github.com/icong1993/bob-plugin-cfai/releases/download/v0.1.0/bob-plugin-cfai.bobplugin",
       "minBobVersion": "0.5.0"
     }
